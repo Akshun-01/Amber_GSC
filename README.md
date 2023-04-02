@@ -32,3 +32,14 @@ npm run dev
 #### Experince the future of medical industry ✨
 
 ![image](https://user-images.githubusercontent.com/93793691/228978092-cf74063e-ca5f-4194-9270-562161da7b04.png)
+
+## Contributing
+The open source community is such a fantastic place to learn, be inspired, and develop because of contributions. We appreciate any contributions you may have.
+
+1. Fork the Project
+2. Create your Feature Branch (``git checkout -b newFeature``)
+3. Commit your Changes (``git commit -m"Add some AmazingFeature" ``)
+4. Push to the Branch (``git push origin newFeature``)
+5. Open a Pull Request
+
+### HAPPY CONTRIBUTING! 🌟
